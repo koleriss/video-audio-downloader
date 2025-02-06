@@ -1,3 +1,4 @@
+===== SALAM KENAL DARI KOLERIS =====
 Script ini adalah pengunduh video & audio berbasis Termux menggunakan yt-dlp.
 
 Fungsinya:
