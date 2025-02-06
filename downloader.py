@@ -16,14 +16,14 @@ os.makedirs(output_directory, exist_ok=True)  # Membuat folder jika belum ada
 
 # Daftar situs populer
 popular_sites = {
-    " 1": "YouTube",
-    " 2": "TikTok",
-    " 3": "Twitter",
-    " 4": "Dailymotion",
-    " 5": "Instagram",
-    " 6": "Facebook",
-    " 7": "Twitch",
-    " 8": "Lainnya"
+    "1": "YouTube",
+    "2": "TikTok",
+    "3": "Twitter",
+    "4": "Dailymotion",
+    "5": "Instagram",
+    "6": "Facebook",
+    "7": "Twitch",
+    "8": "Lainnya"
 }
 
 # Tampilan menu
