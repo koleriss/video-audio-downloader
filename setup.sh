@@ -9,7 +9,7 @@ pkg update && pkg upgrade -y
 # Menginstal paket yang diperlukan di Termux
 pkg install libexpat openssl python -y
 pkg install ffmpeg -y
-pkg install colorama -y
+pip install colorama -y
 
 # Menginstal dependensi Python
 pip install -U "yt-dlp[default]"
